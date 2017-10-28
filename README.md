@@ -25,7 +25,7 @@ amixer for alsa, of course :D
 
 `$ alsa-tooltip -u` increases luminosity
 
-`$ alsa-tooltip -u` decreases luminosity
+`$ alsa-tooltip -d` decreases luminosity
 
 That's it!
 
